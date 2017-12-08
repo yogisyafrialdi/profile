@@ -135,7 +135,7 @@ section.success {
       border-color: #18BC9C;
       background-color: #18BC9C; }
 
-@media (min-width: 102px) {
+@media (min-width: 100px) {
   #mainNav {
     padding-top: 25px;
     padding-bottom: 25px;
